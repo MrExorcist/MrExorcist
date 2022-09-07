@@ -1,14 +1,14 @@
 > <h1 align="left">Hi 👋, I'm Ayush Sharma</h1>
 
-> <h3 align="left">A passionate full stack developer from India.</h3>
+> <h3 align="left">A passionate learner from India.</h3>
 
 - 🌱 I’m currently learning javascript.
 
 - 📫 Always available at **[`sharmaayush.kol@gmail.com`](mailto:sharmaayush.kol@gmail.com)**
 
-- ☢ My friends call me **`dissapointment`**.
+- ☢ My friends call me **`disappointment`**.
 
-- ⚡ Other interest : `badmiinton ` | `Astronomy 🔭`
+- ⚡ Other interest : `badmiinton ` | `Astronomy 🔭`| `Movies`|`Writing`|
 
 ---
 
